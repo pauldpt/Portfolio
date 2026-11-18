@@ -1,5 +1,3 @@
-# pauldpt.github.io
-
-Portfolio de Paul Dupont-Fauvel — étudiant en BUT Science des Données.
+Mon Portfolio
 
 En ligne : https://pauldpt.github.io
